@@ -24,3 +24,9 @@
 *.ckpt
 *.zip
 .gitignore
+*.tfevents
+*.pth
+*.pyc
+catboost_training.json
+learn_error.tsv
+time_left.tsv
