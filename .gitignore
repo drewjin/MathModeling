@@ -30,3 +30,4 @@
 catboost_training.json
 learn_error.tsv
 time_left.tsv
+*.joblib
